@@ -1,0 +1,7 @@
+C:\dev\projects\distributer\distributer_client\bin\Release\distributer_client.exe
+C:\dev\projects\distributer\distributer_client\bin\Release\distributer_client.pdb
+C:\dev\projects\distributer\distributer_client\bin\Release\distributer.dll
+C:\dev\projects\distributer\distributer_client\bin\Release\distributer.pdb
+C:\dev\projects\distributer\distributer_client\obj\x86\Release\ResolveAssemblyReference.cache
+C:\dev\projects\distributer\distributer_client\obj\x86\Release\distributer_client.exe
+C:\dev\projects\distributer\distributer_client\obj\x86\Release\distributer_client.pdb

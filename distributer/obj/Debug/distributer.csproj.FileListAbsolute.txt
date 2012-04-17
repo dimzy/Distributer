@@ -1,0 +1,5 @@
+C:\dev\projects\distributer\distributer\bin\Debug\distributer.dll
+C:\dev\projects\distributer\distributer\bin\Debug\distributer.pdb
+C:\dev\projects\distributer\distributer\obj\Debug\ResolveAssemblyReference.cache
+C:\dev\projects\distributer\distributer\obj\Debug\distributer.dll
+C:\dev\projects\distributer\distributer\obj\Debug\distributer.pdb

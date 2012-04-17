@@ -1,0 +1,20 @@
+<distributer>
+	<ip_mask>192.</ip_mask>
+	<server_ip>192.168.1.67</server_ip>
+	<server_port>9049</server_port>
+	<client_port>9050</client_port>
+	
+	<distributer_path>.\</distributer_path>
+	<applications_path>.\applications\</applications_path>
+	
+	<process_application>[Something].exe</process_application>
+	<process_application_path>.\applications\[Something]</process_application_path>
+	<process_tempdata_path>.\data\</process_tempdata_path>
+	<process_datafiles>[Files you want zipped and sent to server when done running application]</process_datafiles>
+	<process_deletefiles>[Files you want deleted before next run]</process_deletefiles>
+
+	<zip_application>C:\Program Files\7-Zip\7z.exe</zip_application>
+	<zip_compress_flags>a -mx9 -mmt=on -t7z -y -ssw</zip_compress_flags>
+	<zip_decompress_flags>x -y</zip_decompress_flags>
+	<zip_file_extension>.7z</zip_file_extension>
+</distributer>

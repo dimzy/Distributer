@@ -1,0 +1,12 @@
+C:\dev\projects\distributer\distributer_server\bin\Release\distributer_server.exe.config
+C:\dev\projects\distributer\distributer_server\bin\Release\distributer_server.exe
+C:\dev\projects\distributer\distributer_server\bin\Release\distributer_server.pdb
+C:\dev\projects\distributer\distributer_server\bin\Release\distributer.dll
+C:\dev\projects\distributer\distributer_server\bin\Release\distributer.pdb
+C:\dev\projects\distributer\distributer_server\obj\x86\Release\ResolveAssemblyReference.cache
+C:\dev\projects\distributer\distributer_server\obj\x86\Release\distributer_server.WorkQueue.resources
+C:\dev\projects\distributer\distributer_server\obj\x86\Release\distributer_server.Properties.Resources.resources
+C:\dev\projects\distributer\distributer_server\obj\x86\Release\GenerateResource.read.1.tlog
+C:\dev\projects\distributer\distributer_server\obj\x86\Release\GenerateResource.write.1.tlog
+C:\dev\projects\distributer\distributer_server\obj\x86\Release\distributer_server.exe
+C:\dev\projects\distributer\distributer_server\obj\x86\Release\distributer_server.pdb
